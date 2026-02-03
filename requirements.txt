@@ -1,0 +1,14 @@
+lane-detection-project/
+│
+├── README.md
+├── requirements.txt
+├── src/
+│   ├── __init__.py
+│   ├── preprocess.py
+│   ├── lane_detector.py
+│   └── utils.py
+├── app.py              # Streamlit demo
+├── test_video.mp4      # Sample video
+├── output/
+│   └── demo_result.mp4
+└── demo.gif            # Final demo
