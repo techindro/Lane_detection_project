@@ -1,4 +1,3 @@
-
 # 🚗 Road_Lane _Detection
 
 **Detection of Road Lane Lines** - Computer Vision project using OpenCV & Python
@@ -21,7 +20,5 @@
 pip install -r requirements.txt
 streamlit run app.py
 
-## 🚀 Quick Start
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+## Tech stack
+OpenCV | NumPy | Streamlit | Python 3.9+
