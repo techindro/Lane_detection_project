@@ -15,10 +15,12 @@
 - **FPS**: 25+ on standard laptop
 - **Demo**: [Watch here](demo.gif)
 
+## Tech stack
+OpenCV | NumPy | Streamlit | Python 3.9+
+
 ## 🚀 Quick Start
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 
-## Tech stack
-OpenCV | NumPy | Streamlit | Python 3.9+
+
