@@ -1,6 +1,5 @@
-# lane_detection_project
 
-# 🚗 Road Lane Detection
+# 🚗 Road_Lane _Detection
 
 **Detection of Road Lane Lines** - Computer Vision project using OpenCV & Python
 
