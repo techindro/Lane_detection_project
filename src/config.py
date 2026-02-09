@@ -1,5 +1,3 @@
-
-```python
 """
 Configuration file for Lane Detection System
 """
