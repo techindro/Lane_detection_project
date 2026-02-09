@@ -10,7 +10,7 @@ setup(
     name="lane-detection-dsp",
     version="1.0.0",
     author="Your Name",
-    author_email="your.email@example.com",
+    author_email="shubhamkumarpatel45@gmail.com",
     description="Advanced Lane Detection System for Data Science Pinnacle",
     long_description=long_description,
     long_description_content_type="text/markdown",
