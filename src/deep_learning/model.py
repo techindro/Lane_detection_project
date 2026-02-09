@@ -6,7 +6,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import segmentation_models_pytorch as smp
-from typing import Tuple, Dict, Any
+from typing import Tuple, Dict, Any, Optional
 
 class LaneDetectionModel(nn.Module):
     """U-Net based lane detection model"""
