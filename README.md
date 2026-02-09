@@ -40,7 +40,7 @@ python main.py --video INPUT_VIDEO OUTPUT_VIDEO_PATH
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/lane-detection-dsp.git
+git clone https://github.com/techindro/Lane_detection_project.git
 cd lane-detection-dsp
 
 # Create virtual environment
