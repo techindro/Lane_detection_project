@@ -1,4 +1,4 @@
-## len_detection_project
+## lane_detection_project
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 **Detection of Road Lane Lines** - Computer Vision project using OpenCV & Python
