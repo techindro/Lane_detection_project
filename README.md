@@ -17,7 +17,7 @@ A comprehensive lane detection system implementing both traditional computer vis
 - **FPS**: 25+ on standard laptop
 - **Demo**: [Watch here](demo.gif)
 
-## Tech Stack 
+## Tech Stack
 
 OpenCV | NumPy | Streamlit | Python 3.9+
 
