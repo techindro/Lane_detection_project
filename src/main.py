@@ -1,7 +1,6 @@
 """
 Main module for Lane Detection System
 """
-
 import cv2
 import numpy as np
 from typing import Optional
