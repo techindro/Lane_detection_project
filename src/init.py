@@ -1,7 +1,6 @@
 """
 Lane Detection System Package
 """
-
 __version__ = "1.0.0"
 __author__ = "Shubham Patel"
 __email__ = "shubhamkumarpatel45@gmail.com"
